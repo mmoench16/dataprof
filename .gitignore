@@ -1,0 +1,8 @@
+# Build output
+/dataprof
+/dataprof-*
+
+# Throwaway experiments (S2, S3)
+/scratch/
+
+.DS_Store
